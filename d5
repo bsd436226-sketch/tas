@@ -10,7 +10,7 @@ local LocalPlayer = Players.LocalPlayer
 local AllowedUserIDs = {
     [9034198439] = true,   -- ضع معرفات اللاعبين المسموح لهم هنا
     [10067888587] = true,
-    [7909497107] = true,
+    [10082742981] = true,
     [10706037987] = true,
     [10067888587] = true,
     -- أضف المزيد من المعرفات هنا
